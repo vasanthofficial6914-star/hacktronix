@@ -1,0 +1,11 @@
+numpy
+opencv-python
+networkx
+pyvis
+fastapi
+uvicorn
+streamlit
+pydantic
+httpx
+requests
+pytest
